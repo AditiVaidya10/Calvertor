@@ -1,6 +1,7 @@
-# calvertor
+# Calvertor
 
-A new Flutter application.
+Simple Calculator. A new Flutter application.
+
 
 ## Getting Started
 
