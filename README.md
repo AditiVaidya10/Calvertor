@@ -1,17 +1,23 @@
-# Calvertor
+**📱 Calvertor: Your Stylish Flutter Calculator 🧮**
 
-Simple Calculator. A new Flutter application.
+Welcome to Calvertor, your sleek and efficient calculator app built with Flutter! Whether you're crunching numbers for work, school, or just curious calculations, Calvertor has got you covered with its intuitive interface and powerful functionality.
 
+**Features** 🚀
+- **Simple and Elegant**: Experience the joy of effortless calculations with our minimalist design.
+- **Basic Arithmetic**: Add, subtract, multiply, and divide with ease.
+- **History**: Keep track of your calculations with a convenient history feature.
+- **Themes**: Personalize your experience with customizable themes to suit your style.
 
-## Getting Started
+**Feedback** 📣
 
-This project is a starting point for a Flutter application.
+I value your feedback! If you have any suggestions, feature requests, or encounter any issues, please don't hesitate to connect - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditivaidya10/)
 
-A few resources to get you started if this is your first Flutter project:
+**Contributing** 🤝
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Calvertor is open-source! Feel free to contribute.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Credits** 🙏
+
+- Developed with ❤️ by [Aditi Vaidya](https://github.com/AditiVaidya10).
+
+Happy Calculating! 🎉
