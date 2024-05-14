@@ -1,4 +1,4 @@
-**📱 Calvertor: Your Stylish Flutter Calculator 🧮**
+# **📱 Calvertor: Your Stylish Flutter Calculator 🧮**
 
 Welcome to Calvertor, your sleek and efficient calculator app built with Flutter! Whether you're crunching numbers for work, school, or just curious calculations, Calvertor has got you covered with its intuitive interface and powerful functionality.
 
